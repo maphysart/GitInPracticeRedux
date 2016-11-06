@@ -4,7 +4,9 @@ for fetch
 
 Chapter 01
 this is chapter 01
+<<<<<<< HEAD
 this is line in master branch
-this is line in conflict-test
-
+=======
+this line is conflict-test
+>>>>>>> conflict-branch
 
